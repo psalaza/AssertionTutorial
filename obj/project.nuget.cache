@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pwqxaroKEFl89ukn950EhIHRk97Yaid80aeq0dMIutWUAuZgo4MbXmUoqD9vUAHyebb8NagI79lBGWdz0cycKw==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\DotNet\\AssertionTutorial\\AssertionTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro Salazar\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\Pedro Salazar\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\Pedro Salazar\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
